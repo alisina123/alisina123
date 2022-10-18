@@ -9,7 +9,7 @@
 - 💬 Ask me about **JavaScript , React Js ,Next Js ,Redux ,Spring Boot**
 
 - ⚡ Fun fact **I am Funny**
-
+<hr>
 <h1 align="left">My Work:</h1>
  <img src="https://raw.githubusercontent.com/ProgrammerGaurav/programmergaurav/master/images/dino.gif" alt="My Work" width="80%"> 
 <p>Profile: https://alisina.netlify.app/ </p>
