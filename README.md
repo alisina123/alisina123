@@ -12,7 +12,7 @@
 <hr>
 <h1 align="left">My Work:</h1>
  <img src="https://raw.githubusercontent.com/ProgrammerGaurav/programmergaurav/master/images/dino.gif" alt="My Work" width="80%"> 
-<p>Profile: https://alisina.netlify.app/ </p>
+<p>Profile: https://alisina.netlify.app](https://alisina123.github.io/ </p>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/alisina-sadat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alisina-sadat" height="30" width="40" /></a>
 </p>
