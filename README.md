@@ -81,10 +81,14 @@ const alisina = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alisina123&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alisina123&theme=github-dark-blue&hide_border=true" width="48%" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alisina123&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alisina123&theme=github_dark&hide_border=true&layout=compact&langs_count=8"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisina123&theme=github_dark&hide_border=true&layout=compact" width="40%" />
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alisina123&theme=github-compact&hide_border=true&area=true" width="95%"/>
 
 </div>
 
